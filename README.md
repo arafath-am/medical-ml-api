@@ -1,5 +1,12 @@
 # Medical ML API
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-red?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109-teal?style=for-the-badge&logo=fastapi&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-11.8+-green?style=for-the-badge&logo=nvidia&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-MedGemma-purple?style=for-the-badge)
+![GPU](https://img.shields.io/badge/GPU-Optimized-success?style=for-the-badge)
+
 A production-ready FastAPI service that provides medical AI capabilities through a REST API. Built for healthcare applications requiring medical speech-to-text transcription and medical question answering.
 
 ## Overview
