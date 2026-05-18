@@ -1,6 +1,7 @@
 """
 Authentication module for Medical ML API
 Simple API Key authentication for development stage
+API keys in this file are not real
 """
 
 import os
