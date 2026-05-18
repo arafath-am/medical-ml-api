@@ -40,6 +40,7 @@ PUBLIC_ENDPOINTS = {
 # Generate new keys with: python -c "import secrets; print(secrets.token_urlsafe(32))"
 #
 # In production, move these to environment variables or a database!
+#These are dummy API keys !! 
 
 API_KEYS: Dict[str, dict] = {
     # Backend Development Team
